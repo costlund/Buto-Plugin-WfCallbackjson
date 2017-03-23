@@ -1,7 +1,7 @@
 <?php
 /**
 <p>
-Javascript to handle json from an action.
+Javascript to handle json from an action..
 </p>
 <p>
 Post a form with id edit_save to /editor/edit and handle the json response.
