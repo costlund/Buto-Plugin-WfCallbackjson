@@ -1,1 +1,0 @@
-This folder should be moved or linked to public part of Buto project.
